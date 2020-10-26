@@ -1,0 +1,8 @@
+name: KotlinTest
+version: ${project.version}
+main: org.l2x9.kotlintest.Main
+authors: [254n_m]
+description: Im testing kotlin
+commands:
+  fly:
+    description: Allows the sender to fly
